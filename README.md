@@ -9,12 +9,14 @@
 
 # Screenshots of the website:
 
-[Home 1](https://ibb.co/nrkuDU)
+[Home](https://image.ibb.co/gaNoOU/Screenshot1.png)
 
-[Home 2](https://ibb.co/ipT37p)
+[Home - iPhone](https://preview.ibb.co/eSAiOU/Home_i_Phone.png)
 
-[About](https://ibb.co/gya5L9)
+[Home - iPad](https://image.ibb.co/fOi3OU/Home_i_Pad_Pro.png)
 
-[Menu](https://ibb.co/c1Y37p)
+[About](https://image.ibb.co/goUrcp/Screenshot2.png)
 
-[Delivery](https://ibb.co/cvOgtU)
+[Menu](https://image.ibb.co/n2wF3U/Screenshot3.png)
+
+[Delivery](https://image.ibb.co/hmM4xp/Screenshot4.png)
