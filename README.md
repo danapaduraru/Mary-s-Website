@@ -7,7 +7,7 @@
 - Responsive layout
 - 4 pages: Home, About, Menu and Delivery page
 
-# Screenshots of the website:
+## Screenshots of the website:
 
 [Home](https://image.ibb.co/gaNoOU/Screenshot1.png)
 
